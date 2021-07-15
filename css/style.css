@@ -5,8 +5,10 @@ main{
   color: black;
 }
 h1 {
+  font-family: 'Uchen', sans-serif;
   background-color: #c3bebe;
   color: #b22f2f;
+  font-family: 'Uchen', sans-serif;
 img {
   width: 270px;
   border: 5px solid black;
@@ -14,5 +16,6 @@ img {
 h3 {
   text-decoration-line: underline;
   text-decoration-color: #b22f2f;
+  font-family: 'Uchen', sans-serif;
 footer {
   color: #b22f2f;
